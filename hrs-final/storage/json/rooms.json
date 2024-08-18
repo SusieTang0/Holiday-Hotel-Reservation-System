@@ -1,0 +1,33 @@
+{"room_types":[
+
+  {
+      "type": "Standard Room",
+      "room_details":{
+          "capacity":2 ,
+          "size": "30",
+          "facilities":["Queen Bed", "Private Bathroom","TV", "Free WiFi", "Desk", "Hairdryer", "Air Conditioning","No Smoking"],
+          "rate": 100
+      },
+      "room_no":["101","102","103","104","105","106","107"]
+  },
+  {
+      "type": "Standard King Room",
+      "room_details":{
+          "capacity":2 ,
+          "size": "35",
+          "facilities":["King Bed", "Private Bathroom","TV", "Free WiFi", "Desk", "Hairdryer", "Air Conditioning","No Smoking"],
+          "rate": 150
+      },
+      "room_no":["201","202","203","204","205"]
+  },
+  {
+      "type": "One-Bedroom Suite",
+      "room_details":{
+          "capacity":4 ,
+          "size": "60",
+          "facilities":["King Bed", "Sofa Bed", "Private Bathroom","TV", "Free WiFi", "Desk", "Hairdryer", "Air Conditioning","Coffee maker/Kettle","Microwave","Mini-Fridge","No Smoking"],
+          "rate": 200
+      },
+      "room_no":["301","302","303"]
+  }
+]}
